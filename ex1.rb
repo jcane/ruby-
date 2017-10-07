@@ -1,4 +1,4 @@
- text1 = " Bottles of beer on the wall "
+text1 = " Bottles of beer on the wall "
 text2 = " Bottles of beer "
 text3 = " If one of those bottles should happen to fall "
 text4 = " No bottles of beer on the wall "
